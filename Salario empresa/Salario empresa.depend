@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477841681 source:c:\users\brums\documents\isec\ip\zz programas zz\salario empresa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

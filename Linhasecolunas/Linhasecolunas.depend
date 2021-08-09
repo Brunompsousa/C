@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1479463969 source:c:\users\brums\documents\isec\ip\zz programas zz\linhasecolunas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcaotabela.c"
+
+1479463948 c:\users\brums\documents\isec\ip\zz programas zz\linhasecolunas\funcoes.h
+
+1479465267 c:\users\brums\documents\isec\ip\zz programas zz\linhasecolunas\funcaotabela.c
+

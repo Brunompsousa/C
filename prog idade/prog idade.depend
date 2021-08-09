@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477573867 source:c:\users\brums\documents\progs\prog idade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

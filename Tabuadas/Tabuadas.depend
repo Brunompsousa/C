@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479467660 source:c:\users\brums\documents\isec\ip\zz programas zz\tabuadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1479467677 c:\users\brums\documents\isec\ip\zz programas zz\tabuadas\funcoes.h
+

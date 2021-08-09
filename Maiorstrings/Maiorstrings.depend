@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1479992042 source:c:\users\brums\documents\isec\ip\zz programas zz\maiorstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"funcoes.h"
+
+1479992061 c:\users\brums\documents\isec\ip\zz programas zz\maiorstrings\funcoes.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480676145 source:c:\users\brums\documents\isec\ip\zz programas zz\convertermetro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoes.c"
+
+1480676133 c:\users\brums\documents\isec\ip\zz programas zz\convertermetro\funcoes.c
+

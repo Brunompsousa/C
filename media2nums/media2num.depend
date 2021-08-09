@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480673715 source:c:\users\brums\documents\isec\ip\zz programas zz\media2num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoes.c"
+
+1480673821 c:\users\brums\documents\isec\ip\zz programas zz\media2num\funcoes.c
+

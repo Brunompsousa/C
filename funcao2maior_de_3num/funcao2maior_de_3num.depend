@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479387410 source:c:\users\brums\documents\isec\ip\zz programas zz\funcao2maior_de_3num\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcaomaior.h"
+
+1479387464 c:\users\brums\documents\isec\ip\zz programas zz\funcao2maior_de_3num\funcaomaior.h
+

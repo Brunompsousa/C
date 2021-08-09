@@ -1,0 +1,40 @@
+
+
+num de players ?
+pede names
+
+  (
+  scores add
+  show players list
+  case
+  add to player x score+1
+  )
+      
+5 exit
+
+
+
+
+
+
+pontuacoes
+
+switch
+case 1
+add pontos  pedir num, num -> player e player score + 1 
+case 2
+tirar pontos
+case 3
+show pontuacoes
+case 4
+exit
+default
+
+
+
+            do
+            {
+        
+
+            }
+                while( <= 0 ||  > ip)

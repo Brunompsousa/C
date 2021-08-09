@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1480672717 source:c:\users\brums\documents\isec\ip\zz programas zz\imprimehello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoes.c"
+
+1480672728 c:\users\brums\documents\isec\ip\zz programas zz\imprimehello\funcoes.c
+

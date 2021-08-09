@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478783239 source:c:\users\brums\documents\isec\ip\zz programas zz\whiletemp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

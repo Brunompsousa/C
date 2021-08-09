@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478859701 source:c:\users\brums\documents\isec\ip\zz programas zz\ordemdecrescent3num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+

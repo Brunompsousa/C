@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483699662 source:c:\users\brums\documents\isec\ip\zz programas zz\arraymultisquar\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.c"
+
+1483701004 c:\users\brums\documents\isec\ip\zz programas zz\arraymultisquar\funcoes.c
+

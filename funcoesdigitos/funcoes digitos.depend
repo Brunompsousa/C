@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479388245 source:c:\users\brums\documents\isec\ip\zz programas zz\funcoes digitos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcao dig.h"
+
+1479388324 c:\users\brums\documents\isec\ip\zz programas zz\funcoes digitos\funcao dig.h
+

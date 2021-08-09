@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478779680 source:c:\users\brums\documents\isec\ip\zz programas zz\dobrode50num\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1477656287 source:c:\users\brums\documents\isec\ip\zz programas zz\temperatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

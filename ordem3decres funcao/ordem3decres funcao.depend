@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478863889 source:c:\users\brums\documents\isec\ip\zz programas zz\ordem3decres funcao\func.c
+
+1478866200 source:c:\users\brums\documents\isec\ip\zz programas zz\ordem3decres funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	"funcoes.h"
+
+1478864853 c:\users\brums\documents\isec\ip\zz programas zz\ordem3decres funcao\funcoes.h
+	<stdbool.h>
+

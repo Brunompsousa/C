@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479470228 source:c:\users\brums\documents\isec\ip\zz programas zz\quadradodenumeros\main.c
+	<stdio.h>
+	<stdlib.h>
+

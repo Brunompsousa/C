@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1479385859 source:c:\users\brums\documents\isec\ip\zz programas zz\funcao1teorica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"funcoescalc.h"
+
+1479386075 c:\users\brums\documents\isec\ip\zz programas zz\funcao1teorica\funcoescalc.h
+
